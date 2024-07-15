@@ -1,0 +1,50 @@
+/* General styles */
+html
+{
+    background-color: mintcream;
+}
+
+/* Body styles */
+body
+{
+    font-family: "JetBrains", monospace;
+    font-weight: 400;
+}
+
+/* Header styles */
+header
+{
+    border: 2px dotted grey;
+}
+
+header nav
+{
+    background-color: #d3d3d3;
+}
+
+header nav ul
+{
+    list-style-type: none;
+}
+
+header nav ul li a
+{
+    text-align: center;
+}
+
+header nav ul li a:hover
+{
+    background-color: #c0c0c0;
+}
+
+/* Content styles */
+.card
+{
+    background-color: lightgoldenrodyellow;
+}
+
+/* Footer styles */
+footer
+{
+    border: 2px dotted grey;
+}
